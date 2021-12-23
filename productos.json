@@ -1,0 +1,38 @@
+[
+    {
+      "id":1,
+       "nombre":"Juego de mesa",
+       "descripcion":"Juego de cartas de dos jugadores",
+       "codigo":"mesa1",
+       "foto":"https://cdn3.iconfinder.com/data/icons/education-209/64/ruler-triangle-stationary-school-256.png",
+       "precio":3400,
+       "stock":32
+    },
+    {
+      "id":2,
+      "nombre":"Juego de mesa version española",
+      "descripcion":"Juego de cartas de dos jugadores importado",
+      "codigo":"mesa2",
+      "foto":"https://cdn3.iconfinder.com/data/icons/education-209/64/ruler-triangle-stationary-school-256.png",
+      "precio":10000,
+      "stock":3
+    },
+    {
+      "id":3,
+      "nombre":"Mazo de cartas pokemon",
+      "descripcion":"Juego de cartas de dos jugadores pokemon rojo",
+      "codigo":"poke1",
+      "foto":"https://cdn3.iconfinder.com/data/icons/education-209/64/ruler-triangle-stationary-school-256.png",
+      "precio":5400,
+      "stock":3
+    },
+    {
+      "id":4,
+      "nombre":"Juego de mesa pokemon",
+      "descripcion":"Juego de cartas de dos jugadores pokemon azul",
+      "codigo":"poke2",
+      "foto":"https://cdn3.iconfinder.com/data/icons/education-209/64/ruler-triangle-stationary-school-256.png",
+      "precio":6500,
+      "stock":10
+    }
+ ]
